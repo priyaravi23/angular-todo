@@ -1,4 +1,19 @@
-# Todos
+# Todo App using Angular CLI and TypeScript
+
+## To create a new project 
+`ng new Todos --style=scss`
+
+## To build the app and run on port 9000
+`ng serve ---port 9000`
+
+## Create a new component 
+`ng generate component todo`
+
+## Style the app
+`npm install --save todomvc-app-css`
+
+## Create the service with the CLI
+`ng g service todo/todo`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
