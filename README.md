@@ -1,5 +1,15 @@
 # Todo App using Angular CLI and TypeScript
 
+![](src/todos.png)
+
+https://angular-todo-e2e.herokuapp.com/
+
+## To install angular cli run 
+`npm install -g angular-cli`
+
+## To verify if installation has completed successfully
+`ng version`
+
 ## To create a new project 
 `ng new Todos --style=scss`
 
